@@ -1,0 +1,6 @@
+Flask>=2.0
+requests>=2.25
+
+# Optional: pin a specific version of Chart.js is managed client-side via CDN
+# If you plan to run in a virtualenv, install these packages with:
+# pip install -r requirements.txt
