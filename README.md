@@ -41,7 +41,7 @@ weather-app/
 
 **🖥️ How It Works**
 
-1. User opens the web app at `http://127.0.0.1:5000`.
+1. User opens the web app
 2. The frontend calls the Flask endpoint:
 
    `/temperature?city=CityName`
